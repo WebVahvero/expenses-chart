@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Expenses Chart](https://your-live-site-url.com)
+- Live Site URL: [Expenses Chart](https://webvahvero.github.io/expenses-chart/)
 
 ## My process
 
@@ -51,5 +51,5 @@ I will continue learning React
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [WebVahvero](https://github.com/WebVahvero/)
 - Frontend Mentor - [@WebVahvero](https://www.frontendmentor.io/profile/WebVahvero)
